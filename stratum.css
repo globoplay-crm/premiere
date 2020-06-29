@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'globotipo_textoblack';
+    src: url('stratum-black.6efcdd67.otf') format('otf'),
+         url('stratum-black.6efcdd67.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'globotipo_textoblack';
+    src: url('stratum-medium.82bcfe88.otf') format('otf'),
+         url('stratum-medium.82bcfe88.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Stratum';
+    src: url('stratum.52ea407b.otf') format('otf'),
+         url('stratum.52ea407b.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
