@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Stratum-black';
+    src: url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/stratum-black.6efcdd67.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Stratum-medio';
+    src: url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/stratum-medium.82bcfe88.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Stratum';
+    src: url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/stratum.52ea407b.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+
+}
