@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'globotipo_textoblack';
+    font-family: 'Stratum-black';
     src: url('https://cdn.jsdelivr.net/gh/viniciusvasc13/premiere@master/stratum-black.6efcdd67.otf') format('otf'),
          url('https://cdn.jsdelivr.net/gh/viniciusvasc13/premiere@master/stratum-black.6efcdd67.otf') format('otf');
     font-weight: normal;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'globotipo_textoblack';
+    font-family: 'Stratum-medio';
     src: url('https://cdn.jsdelivr.net/gh/viniciusvasc13/premiere@master/stratum-medium.82bcfe88.otf') format('otf'),
          url('https://cdn.jsdelivr.net/gh/viniciusvasc13/premiere@master/stratum-medium.82bcfe88.otf') format('otf');
     font-weight: normal;
