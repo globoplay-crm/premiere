@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Stratum';
+    font-family: 'stratum';
     src: url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/stratum.52ea407b.otf') format('otf'),
     url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/StratumNo2-Light.ttf') format('ttf');
     font-weight: normal;
@@ -8,19 +8,19 @@
 }
 
 @font-face {
-    font-family: 'Stratum-medio';
+    font-family: 'stratum-medio';
     src: url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/stratum.52ea407b.otf') format('otf'),
     url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/StratumNo2-Medium.ttf') format('ttf');
-    font-weight: 500;
+    font-weight: normal;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'Stratum-black';
+    font-family: 'stratum-black';
     src: url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/stratum.52ea407b.otf') format('otf'),
     url('https://cdn.jsdelivr.net/gh/globoplay-crm/premiere@master/StratumNo2-Black.ttf') format('ttf');
-    font-weight: 800;
+    font-weight: normal;
     font-style: normal;
 
 }
